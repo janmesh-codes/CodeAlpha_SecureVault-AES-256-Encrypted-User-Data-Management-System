@@ -1,0 +1,6 @@
+{
+  "name": "SecureVault",
+  "description": "A secure web vault and security education lab demonstrating AES-256 encryption, role-based access control, SQL injection detection, and an interactive AI Security Analyst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
